@@ -6,17 +6,16 @@ This repository contains a website template with basic html tags for people who 
 
  - [x] SEO Tags
  - [x] Responsive Tags
- - [x] Open Graph Tags
+ - [x] Facebook Open Graph Tags
+ - [x] Twitter Open Graph Tags
+ - [x] Google Open Graph Tags
 
 ## Compatibility
-
  
 |       |Chromium|Firefox | Safari |
 |----------------|--------|--------|--------|
-|Desktop|✔️|✔️|Not tested
-|Mobile |✔️| ✔️|Not tested
-
-
+|Desktop|✔️|✔️|✔️
+|Mobile |✔️| ✔️|✔️
 
 ## Contribution
 
